@@ -1,0 +1,99 @@
+.backgroundcolr{
+    background-color:rgb(180, 114, 114);
+}
+#jumb1{
+    
+   
+   
+    BACKGROUND-image:url(https://images.unsplash.com/photo-1581093067310-624c320ffd3c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-size:cover ;
+}
+
+#jumbh1  {
+
+    font-family: 'Courgette', cursive;
+
+    
+    font-weight: 300;
+    font-size: 50px;
+    color: honeydew;
+    TEXT-ALIGN:LEFT;
+}
+#jumbp1{
+    font-weight:200;
+    font-size: 40px;
+    color: honeydew;
+    text-align: left;
+}
+h1{
+    text-align:center;
+}
+p{
+    text-align:center ;
+}
+h5{
+    color:purple;
+    text-align:center;
+}
+.btn{
+    align-self: auto;
+}
+.btn1{
+    align-items:center;
+}
+.plast{
+    text-align: left;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-ad{
+    background: #55ACEE;
+    color: white;
+
+
+  }
+  .fa-instagram{
+      background:purple;
+      color: white;
+
+  }
+.fa-linkedin{
+    background:#55ACEE;
+      color: white;
+
+}
+.fa-github{
+    background:rgb(0, 12, 20);
+      color: white;
+}
+
+    hr{
+        
+        background: rgb(155, 150, 150);
+        border-top: 2px solid #f8f8f8;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+    }
